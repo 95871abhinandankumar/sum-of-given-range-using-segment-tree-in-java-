@@ -15,6 +15,7 @@ this is okk if number of query is less.
 what if querry > 10^4 
 
 for sum time complexity will be 10^4 * n
+
           n = length of array
           what is length itself > 10^4
           
@@ -31,6 +32,7 @@ for sum time complexity will be 10^4 * n
 if we implement this using segment tree
 
 time complexity to find the sum within the range  10^4 * log₂(n)
+
                                    n = length of array
                                   
                                   time taken = c * 13 * 10^4 unit
